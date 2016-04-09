@@ -1,5 +1,7 @@
 # Retail-store-program.
 
+The aim of this project is to implement a retail store sofware, which, will serve as a template for further develpment of any retail store program. this project will be implemented following the requirements and scenario described bellow.
+
 Program Scenario:
 
 Electronic retail store program.
