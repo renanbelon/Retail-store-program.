@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=productID\ productName\ pricePerUnit\ quantity
+comment0.target=Basket(int,\ java.lang.String,\ double,\ int)
+comment1.params=productID
+comment1.target=void\ setProductID(int)
+comment2.params=
+comment2.target=int\ getProductID()
+comment3.params=productName
+comment3.target=void\ setProductName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getProductName()
+comment5.params=pricePerUnit
+comment5.target=void\ setPricePerUnit(double)
+comment6.params=
+comment6.target=double\ getPricePerUnit()
+comment7.params=quantity
+comment7.target=void\ setQuantity(int)
+comment8.params=
+comment8.target=int\ getQuantity()
+numComments=9

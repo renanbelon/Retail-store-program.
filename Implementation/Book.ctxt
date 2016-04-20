@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=author\ nPages\ ISBN\ pID\ pName\ cost\ pYearOfPublication\ pPublicationHouse
+comment0.target=Book(java.lang.String,\ int,\ int,\ int,\ java.lang.String,\ double,\ int,\ java.lang.String)
+comment1.params=author
+comment1.target=void\ setAuthor(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getAuthor()
+comment3.params=nPages
+comment3.target=void\ setNPages(int)
+comment4.params=
+comment4.target=int\ getNpages()
+comment5.params=ISBN
+comment5.target=void\ setISBN(int)
+comment6.params=
+comment6.target=int\ getISBN()
+numComments=7

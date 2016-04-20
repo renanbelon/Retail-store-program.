@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=theBaskets
+comment0.target=BasketTableModel(java.util.List)
+comment1.params=
+comment1.target=int\ getColumnCount()
+comment2.params=
+comment2.target=int\ getRowCount()
+comment3.params=col
+comment3.target=java.lang.String\ getColumnName(int)
+comment4.params=row\ col
+comment4.target=java.lang.Object\ getValueAt(int,\ int)
+comment5.params=c
+comment5.target=java.lang.Class\ getColumnClass(int)
+numComments=6

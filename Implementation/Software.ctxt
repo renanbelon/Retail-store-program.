@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=processor\ ram\ pID\ pName\ cost\ pYearOfPublication\ pPublicationHouse
+comment0.target=Software(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ double,\ int,\ java.lang.String)
+comment1.params=processor
+comment1.target=void\ setProcessor(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getProcessor()
+comment3.params=ram
+comment3.target=void\ setRam(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getRam()
+numComments=5

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=pID\ pName\ cost\ pYearOfPublication\ pPublicationHouse
+comment0.target=Product(int,\ java.lang.String,\ double,\ int,\ java.lang.String)
+comment1.params=pID
+comment1.target=void\ setPID(int)
+comment10.params=
+comment10.target=java.lang.String\ getPPublicationHouse()
+comment2.params=
+comment2.target=int\ getPID()
+comment3.params=pName
+comment3.target=void\ setPName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getPName()
+comment5.params=cost
+comment5.target=void\ setCost(java.lang.Double)
+comment6.params=
+comment6.target=double\ getCost()
+comment7.params=pYearOfPublication
+comment7.target=void\ setPYearOfPublication(int)
+comment8.params=
+comment8.target=int\ getPYearOfPublication()
+comment9.params=pPublicationHouse
+comment9.target=void\ setPPublicationHouse(java.lang.String)
+numComments=11
